@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1651759845,,"wq"
+|2,0,1652020336,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,49 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/firstProject
-|4,48,2,0,1651759845,"~/firstProject"
-'1  2  0  ~/fierstProject
-|4,49,2,0,1651759657,"~/fierstProject"
+'0  1  17  ~/file1
+|4,48,1,17,1652020336,"~/file1"
+'1  2  0  ~/firstProject
+|4,49,2,0,1651759845,"~/firstProject"
+'2  2  0  ~/fierstProject
+|4,50,2,0,1651759657,"~/fierstProject"
 
 # Jumplist (newest first):
+-'  1  17  ~/file1
+|4,39,1,17,1652020336,"~/file1"
 -'  2  0  ~/firstProject
 |4,39,2,0,1651759845,"~/firstProject"
+-'  2  0  ~/firstProject
+|4,39,2,0,1651759845,"~/firstProject"
+-'  1  0  ~/firstProject
+|4,39,1,0,1651759807,"~/firstProject"
 -'  1  0  ~/firstProject
 |4,39,1,0,1651759807,"~/firstProject"
 -'  2  0  ~/fierstProject
 |4,39,2,0,1651759657,"~/fierstProject"
 -'  2  0  ~/fierstProject
 |4,39,2,0,1651759657,"~/fierstProject"
+-'  2  0  ~/fierstProject
+|4,39,2,0,1651759657,"~/fierstProject"
+-'  2  0  ~/fierstProject
+|4,39,2,0,1651759657,"~/fierstProject"
+-'  1  0  ~/fierstProject
+|4,39,1,0,1651759609,"~/fierstProject"
+-'  1  0  ~/fierstProject
+|4,39,1,0,1651759609,"~/fierstProject"
 -'  1  0  ~/fierstProject
 |4,39,1,0,1651759609,"~/fierstProject"
 -'  1  0  ~/fierstProject
 |4,39,1,0,1651759609,"~/fierstProject"
 
 # History of marks within files (newest to oldest):
+
+> ~/file1
+	*	1652020330	0
+	"	1	17
+	^	1	18
+	.	1	18
+	+	1	18
 
 > ~/firstProject
 	*	1651759840	0
